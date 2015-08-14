@@ -138,10 +138,12 @@ d. Google News and other publication options are available at additional cost th
 
 ==  Screenshots  ==
 
->>screenshot1 - PressRoom(tm) by Newswire 
->>screenshot2 - custom widgets   
->>screenshot3 - custom post interfaces  
->>screenshot4, screenshot5, screenshot6 - press release publication options  
+1. screenshot1 - PressRoom(tm) by Newswire 
+2. screenshot2 - custom widgets   
+3. screenshot3 - custom post interfaces  
+4. screenshot4 - press release publication options  
+5. screenshot5 - press release publication options  
+6. screenshot6 - press release publication options  
 >>screenshot7, screenshot8, screenshot9 - image album block
 >>screenshot10, screenshot11, screenshot12, screenshot13 - social media block
 >>screenshot14, screenshot15 - embed block 
@@ -154,7 +156,9 @@ d. Google News and other publication options are available at additional cost th
 >>screenshot26 - installation method 3
 
 == Changelog ==
+
 = 1.0 =
+Release Date: August 14, 2015
 + Version 1.0 is the initial release of the "PressRoom(tm) by Newswire" plugin.
 
 == Upgrade Notice ==
