@@ -138,32 +138,32 @@ d. Google News and other publication options are available at additional cost th
 
 ==  Screenshots  ==
 
-1. - PressRoom(tm) by Newswire.
-2. - custom widgets.
-3. - custom post interfaces. 
-4. - press release publication options
-5. - press release publication options
-6. - press release publication options  
-7. - image album block.
-8. - image album block.
-9. - image album block.
-10. - social media block.
-11. - social media block.
-12. - social media block.
-13. - social media block.
-14. - embed block.
-15. - embed block.
-16. - quote block.
-17. - quote block.
-18. - link block.
-19. - link block.
-20. - contact block.
-21. - contact block.
-22. - text block.
-23. - text block.
-24. - installation method 1
-25. - installation method 2
-26. - installation method 3
+1. PressRoom(tm) by Newswire.
+2. custom widgets.
+3. custom post interfaces.
+4. press release publication options.
+5. press release publication options.
+6. press release publication options.  
+7. image album block.
+8. image album block.
+9. image album block.
+10. social media block.
+11. social media block.
+12. social media block.
+13. social media block.
+14. embed block.
+15. embed block.
+16. quote block.
+17. quote block.
+18. link block.
+19. link block.
+20. contact block.
+21. contact block.
+22. text block.
+23. text block.
+24. installation method 1.
+25. installation method 2.
+26. installation method 3.
 
 == Changelog ==
 
